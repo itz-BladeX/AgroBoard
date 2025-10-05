@@ -271,7 +271,7 @@ def render_nav(current_page, width):
     pages = {
     "main": "main.py",
     "Crop Data": "pages/Crop.py",
-    "Livestock Data": "pages/Livestock.py",
+    "Livestock Data": "pages/LiveStock.py",
     "Inventory Data": "pages/Inventory.py",
     "About": "pages/About.py",
     }
@@ -494,4 +494,5 @@ def edit(database, edit_id):
                             st.warning("ID Already Taken")
 # ---------------------------------------------------------------------------------------------------
 # ==================================================================================================
+
 # ---------------------------------------------------------------------------------------------------
