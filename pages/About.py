@@ -58,4 +58,4 @@ st.header("""
          
 💬 Inspirational / Call to Action
 
-Empower your farm with smarter insights — get ready with Agro-Board today on GitHub: """)
+Empower your farm with smarter insights — get ready with Agro-Board today on GitHub: https://github.com/itz-BladeX/AgroBoard""")
