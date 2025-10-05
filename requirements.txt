@@ -1,10 +1,7 @@
 requests
 geocoder
-datetime
 streamlit
 streamlit_option_menu
 pandas
-shelve
-time
 streamlit_javascript
 altair
