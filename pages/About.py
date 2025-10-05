@@ -54,7 +54,8 @@ Tailor dashboards and analytics to specific crops, locations, or business needs 
 
 
 st.title("Get Started with Agro-Board Today!")
-st.subheader("""
+st.write("""
 
 Empower your farm with smarter insights — get ready with Agro-Board today on GitHub: https://github.com/itz-BladeX/AgroBoard""")
+
 
